@@ -24,4 +24,4 @@ An interactive web platform designed to facilitate food donations, connecting do
 
 
 
-<img width="1920" height="1080" alt="GreenBite" src="https://github.com/user-attachments/assets/108b6c36-7f3f-4255-9120-2bc8d255e172" />
+
